@@ -1,3 +1,3 @@
 # Spinlock
 Spinlock Project 
-Please Read the project report in the spinlock folder for information about this project.
+Please Read the project report in all of the folders for information about the projects.
